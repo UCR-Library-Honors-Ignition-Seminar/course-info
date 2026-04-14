@@ -7,10 +7,10 @@ Credits: 1 unit | Meeting: [Days/Times TBD] | Location: [Venue TBD]
 
 ## Instructors
 
-**Alvaro [Last Name TBD]** (Weeks 1-4)
-Email: [TBD] | Office Hours: [TBD]
+**Alvaro Alvarez** (Weeks 1-4)
+Email: alvaro.alvarez@ucr.edu | Office Hours: [TBD]
 
-**Jing [Last Name TBD]** (Weeks 5-8)
+**Jing Han** (Weeks 5-8)
 Email: jingh@ucr.edu | Office Hours: [TBD]
 
 ---
