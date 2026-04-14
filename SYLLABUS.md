@@ -17,7 +17,7 @@ Email: jingh@ucr.edu | Office Hours: [TBD]
 
 ## Course Description
 
-This seminar introduces students to hands-on making across physical and digital domains. In the first half, students learn physical fabrication — vector design, laser cutting, electronics, 3D printing, and video production — using the tools of the Creat'R Lab and UCR maker spaces. In the second half, students shift to computational and digital media — interactive fiction, creative coding, machine learning, and critical AI practice. Throughout the course, students document their work and build a public portfolio on GitHub.
+This seminar introduces students to hands-on making across physical and digital domains. In the first half, students learn physical fabrication — vector design, laser cutting, electronics, 3D printing, and video production — using the tools of the Creat'R Lab (the Makerspace at UCR Orbach Science Library). In the second half, students shift to computational and digital media — interactive fiction, creative coding, machine learning, and critical AI practice. Throughout the course, students document their work and build a public portfolio on GitHub.
 
 By the end of the seminar, students will have made eight distinct projects, developed a critical vocabulary for talking about creative tools and technology, and produced a final project combining at least two skills from across the course.
 
@@ -46,7 +46,7 @@ By the end of this course, students will be able to:
 | **2** | Logic, Circuits & Animatronics | Alvaro | Arduino, Tinkercad, Raspberry Pi |
 | **3** | Additive Manufacturing (3D Printing) | Alvaro | Blender, Fusion 360, Tinkercad |
 | **4** | Animation, Editing & VFX | Alvaro | DaVinci Resolve, Blender VFX |
-| **5** | Writing as Code / Interactive Fiction | Jing | Twine, Tracery, Voyant Tools |
+| **5** | Writing as Code / Code as Writing | Jing | Twine, Tracery, Voyant Tools |
 | **6** | Creative Code & Games | Jing | p5.js, Bitsy |
 | **7** | Machine Learning & Creative AI | Jing | Teachable Machine, ml5.js, p5.js |
 | **8** | Local AI & Critical Practice | Jing | Ollama, LM Studio |
@@ -66,7 +66,7 @@ Full details for each week — session plans, tool links, and assignment instruc
 | Weekly Projects x 8 | 40% | 5% each |
 | Weekly Reflections x 8 | 16% | 2% each |
 | GitHub Portfolio | 14% | Graded at end of Week 8 |
-| Final Project | 20% | >=2 skills, process documentation |
+| Final Project | 20% | >=2 skills, process documentation and reflection |
 | Final Presentation/Poster | 10% | Presented during Week 10 |
 | **Total** | **100%** | |
 
@@ -153,7 +153,7 @@ See the [GitHub & GitHub Classroom Guide](GITHUB-GUIDE.md) for step-by-step inst
 
 The use of AI tools (ChatGPT, Claude, Midjourney, etc.) is **allowed and encouraged** in this course, with the following conditions:
 
-1. **Demonstrate your own understanding.** If you used AI to help build your project, you must be able to explain how it works and what choices you made.
+1. **Demonstrate your own understanding.** If you used AI to help build your project, you must be able to explain how it works and what choices you made (Don't just ask AI to complete your assignments, ask specific questions that can help you understand the concepts and technologies).
 2. **Document your AI use.** Note briefly how you used AI in your reflection (e.g., "used ChatGPT to debug my p5.js syntax").
 3. **Reflections must be your own thinking.** Using AI to write your reflection violates the spirit of the assignment. Using AI to **format or clean up your Markdown** is fine and encouraged.
 4. **Critical engagement is expected.** Weeks 7 and 8 explicitly ask you to evaluate AI systems — don't just use them, think about them.
