@@ -27,7 +27,7 @@ Every week follows the same four steps:
 | 2 | Logic, Circuits & Animatronics | Alvaro | [week-02-circuits-animatronics](https://github.com/UCR-Library-Honors-Ignition-Seminar/week-02-circuits-animatronics) |
 | 3 | Additive Manufacturing (3D Printing) | Alvaro | [week-03-3d-printing](https://github.com/UCR-Library-Honors-Ignition-Seminar/week-03-3d-printing) |
 | 4 | Animation, Editing & VFX | Alvaro | [week-04-animation-vfx](https://github.com/UCR-Library-Honors-Ignition-Seminar/week-04-animation-vfx) |
-| 5 | Writing as Code / Interactive Fiction | Jing | [week-05-writing-as-code](https://github.com/UCR-Library-Honors-Ignition-Seminar/week-05-writing-as-code) |
+| 5 | Writing as Code / Code as Writing | Jing | [week-05-writing-as-code](https://github.com/UCR-Library-Honors-Ignition-Seminar/week-05-writing-as-code) |
 | 6 | Creative Code & Games | Jing | [week-06-creative-code](https://github.com/UCR-Library-Honors-Ignition-Seminar/week-06-creative-code) |
 | 7 | Machine Learning & Creative AI | Jing | [week-07-machine-learning](https://github.com/UCR-Library-Honors-Ignition-Seminar/week-07-machine-learning) |
 | 8 | Local AI & Critical Practice | Jing | [week-08-ai-critical-practice](https://github.com/UCR-Library-Honors-Ignition-Seminar/week-08-ai-critical-practice) |
