@@ -151,7 +151,35 @@ Each week, before submitting:
 
 ---
 
-## Part 8: Optional — GitHub Desktop App
+## Part 8: Checking the Auto-Grader
+
+Every time you commit to your repo, GitHub automatically runs a quick check on your submission. You do not need to do anything to trigger it — it runs on its own.
+
+**What it checks:**
+- `reflection.md` is present
+- `reflection.md` has at least 250 words (target is 300)
+- At least one project file or `links.md` exists in the repo
+
+**How to see the result:**
+
+1. Open your GitHub Classroom repo
+2. Click the **Actions** tab (top menu)
+3. You will see your most recent check listed — click on it to see details
+
+You will also see a small icon next to your latest commit on the repo's main page:
+- ✓ Green checkmark — all checks passed
+- ⚠ Yellow circle — checks ran but there are warnings (e.g. reflection is too short)
+- ✗ Red X — something is missing (e.g. no `reflection.md` found)
+
+**What to do if you see a warning or error:**
+
+Click on the failed check to read the message — it will tell you exactly what is missing. Fix it, commit again, and the check will re-run automatically.
+
+> The auto-grader is a tool to help you catch missing files before your instructor does — it does not affect your grade directly. Instructors grade the quality of your work; the auto-grader just confirms the files are there.
+
+---
+
+## Part 9: Optional — GitHub Desktop App
 
 If you prefer working on your computer rather than in the browser, **GitHub Desktop** ([desktop.github.com](https://desktop.github.com)) provides a simple drag-and-drop interface — no terminal commands needed.
 
