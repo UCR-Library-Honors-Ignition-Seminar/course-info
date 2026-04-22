@@ -95,18 +95,19 @@ Each week you will write a **300-word reflection** using the provided template (
 
 **Weeks 5-8: Critical/Creative Reflection**
 1. What I Made — brief description of your project
-2. Process & Decisions — creative and technical choices you made
+2. Process & Decisions — creative and technical choices you made (Week 7 includes a Training Data Log section)
 3. Critical Prompt Response — each week has a specific thematic question
 4. Personal Connection — how this connects to your major or interests
+
+See each week's `reflection-template.md` for the exact structure.
 
 ---
 
 ### GitHub Portfolio
 
-At the end of Week 8, instructors review your GitHub Classroom repository. A complete portfolio has:
-- All 8 `/week-XX/` folders present
-- Each folder contains a project artifact and a `reflection.md`
-- The repository has a readable `README.md`
+At the end of Week 8, instructors review all 8 of your weekly GitHub Classroom repositories. A complete portfolio has:
+- All 8 weekly repos contain a project artifact and a `reflection.md` at the root
+- Each repo has a readable `README.md`
 
 The portfolio grade (~1.75% per week) rewards consistent documentation habits. **An incomplete portfolio means missing credit even for work you completed.**
 
@@ -118,8 +119,9 @@ Combine **at least two skills or technologies** from anywhere in Weeks 1-8 into 
 
 **Deliverables:**
 1. A GitHub repository with project files, process documentation, and a `README.md`
-2. A **presentation (5-7 minutes)** OR a **poster**, presented during Week 10
-3. A **500-word final reflection** in your repo
+2. A **500-word final reflection** (`reflection.md`) in your repo
+3. A **personal portfolio website** hosted on GitHub Pages at `https://[your-username].github.io`
+4. A **presentation (5-7 minutes)** OR a **poster**, presented during Week 10
 
 See the [Final Project repository](https://github.com/UCR-Library-Honors-Ignition-Seminar/final-project) for the full rubric and presentation guide.
 
@@ -129,7 +131,7 @@ See the [Final Project repository](https://github.com/UCR-Library-Honors-Ignitio
 
 All assignments are submitted via **GitHub + Canvas**:
 
-1. Upload your work to your GitHub Classroom repository in the correct `/week-XX/` folder
+1. Upload your work to the root of your weekly GitHub Classroom repository
 2. Submit your GitHub repo URL on Canvas
 3. Canvas is used for grading; GitHub is your portfolio
 
