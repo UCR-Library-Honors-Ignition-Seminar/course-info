@@ -41,13 +41,14 @@ Each week, your instructor will post an **assignment invitation link** on Canvas
 
 You do not need to install anything. Use GitHub's built-in web editor:
 
-### Step 3: Create a folder and add your reflection
+### Step 3: Fill in your reflection
+
+Each weekly repo already has a `reflection.md` file with a template waiting for you.
 
 1. Open your assignment repo on GitHub
-2. Click **"Add file"** → **"Create new file"**
-3. In the filename box, type: `week-05/reflection.md`
-   - Typing the `/` automatically creates the folder `week-05`
-4. Write or paste your reflection into the text box
+2. Click on **`reflection.md`** to open it
+3. Click the **pencil icon** (top right of the file) to edit
+4. Write or paste your reflection directly into the file
 5. Click the **"Preview"** tab to see how it will look when rendered
 6. When ready, click **"Commit changes"**
 7. Add a short description (e.g., "added Week 5 reflection")
@@ -55,10 +56,11 @@ You do not need to install anything. Use GitHub's built-in web editor:
 
 ### Step 4: Upload project files
 
-1. Navigate into your `week-05` folder (click on it)
-2. Click **"Add file"** → **"Upload files"**
-3. Drag and drop your file(s) (HTML export, screenshot, PDF, etc.)
-4. Add a commit message and click **"Commit changes"**
+Files go at the **root of your repo** — not inside any subfolder.
+
+1. From your repo's main page, click **"Add file"** → **"Upload files"**
+2. Drag and drop your file(s) (HTML export, screenshot, PDF, etc.)
+3. Add a commit message and click **"Commit changes"**
 
 ### Step 5: Submit on Canvas
 
@@ -67,8 +69,8 @@ You do not need to install anything. Use GitHub's built-in web editor:
 3. Paste the URL and submit
 
 For projects hosted elsewhere (p5.js editor, itch.io, etc.):
-- Create a file called `links.md` in your week folder
-- Paste the project URL in that file
+- Click **"Add file"** → **"Create new file"**, name it `links.md`
+- Paste the project URL in that file and commit it
 - Submit the Canvas assignment with your GitHub repo URL
 
 ---
@@ -134,7 +136,7 @@ Just describe what you added: "added week 6 Bitsy game" or "updated reflection" 
 No. Everything in this class works in a web browser.
 
 **"My project is a link (p5.js, itch.io), not a file."**
-Create a `links.md` file in your week folder and paste the URL there. Then submit your GitHub repo URL on Canvas.
+Click "Add file" → "Create new file", name it `links.md`, and paste the URL there. Then submit your GitHub repo URL on Canvas.
 
 ---
 
@@ -142,10 +144,9 @@ Create a `links.md` file in your week folder and paste the URL there. Then submi
 
 Each week, before submitting:
 
-- [ ] Created a `/week-XX/` folder in my repo
-- [ ] Added my project file (or a `links.md` with the project URL)
-- [ ] Added `reflection.md` with ~300 words
-- [ ] Committed both files with a descriptive message
+- [ ] Filled in `reflection.md` with ~300 words
+- [ ] Added my project file to the repo root (or a `links.md` with the project URL)
+- [ ] Committed everything with a descriptive message
 - [ ] Copied my repo URL and pasted it on Canvas
 
 ---
