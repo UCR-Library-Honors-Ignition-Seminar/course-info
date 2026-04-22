@@ -49,7 +49,7 @@ You do not need to install anything. Use GitHub's built-in web editor:
    - Typing the `/` automatically creates the folder `week-05`
 4. Write or paste your reflection into the text box
 5. Click the **"Preview"** tab to see how it will look when rendered
-6. When ready, scroll down to **"Commit changes"**
+6. When ready, click **"Commit changes"**
 7. Add a short description (e.g., "added Week 5 reflection")
 8. Click the green **"Commit changes"** button
 
