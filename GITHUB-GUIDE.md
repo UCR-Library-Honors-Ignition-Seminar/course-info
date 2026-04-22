@@ -122,13 +122,13 @@ This is not the same as having AI write your reflection — the ideas and critic
 Check your GitHub notification email for the Classroom invitation link. Also check Canvas — the link is there each week.
 
 **"I accidentally deleted a file."**
-GitHub keeps all previous versions. Your instructors can recover it. Click the "History" button on any file to see past versions.
+GitHub keeps all previous versions. Click the "History" button on any file to see past versions.
 
 **"My Markdown doesn't look right."**
 Click the **Preview** tab in the editor before committing. Or paste your Markdown into an AI and ask it to fix the formatting.
 
 **"What should I put in the commit message?"**
-Just describe what you added: "added week 6 Bitsy game" or "updated reflection" is perfect.
+Just describe what you added: "added week 6 Bitsy game" or "updated reflection" is perfect. You can also use the commit messages that Github Copilot generates automatically for you.
 
 **"Do I need to install Git or any software?"**
 No. Everything in this class works in a web browser.
