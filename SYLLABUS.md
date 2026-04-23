@@ -31,7 +31,7 @@ By the end of this course, students will be able to:
 2. Wire and program basic electronic circuits using Arduino and simulate them in Tinkercad
 3. Produce a short video project using non-linear editing software and basic compositing techniques
 4. Build an interactive text-based narrative using Twine or generative grammar using Tracery
-5. Create a browser-based generative or interactive sketch using p5.js or Bitsy
+5. Create a browser-based generative or interactive sketch/game using p5.js or Bitsy
 6. Train and apply a machine learning model using Teachable Machine and ml5.js
 7. Run and critically evaluate a locally hosted AI model, comparing it to cloud-based alternatives
 8. Maintain a public GitHub portfolio documenting process and reflection across all eight projects
