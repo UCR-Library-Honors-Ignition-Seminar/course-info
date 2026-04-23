@@ -1,7 +1,7 @@
 # Fabrication and Media Design: Making in the Physical and Digital World
 
 **UCR Library Honors Ignition Seminar**
-Credits: 1 unit | Meeting: [Days/Times TBD] | Location: [Venue TBD]
+Credits: 3 units | Meeting: [Days/Times TBD] | Location: [Venue TBD]
 
 ---
 
