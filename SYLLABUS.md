@@ -1,7 +1,7 @@
 # Fabrication and Media Design: Making in the Physical and Digital World
 
 **UCR Library Honors Ignition Seminar**
-Credits: 3 units | Meeting: [Days/Times TBD] | Location: [Venue TBD]
+Credits: 1 unit | Meeting: [Days/Times TBD] | Location: [Venue TBD]
 
 ---
 
@@ -65,7 +65,7 @@ Full details for each week — session plans, tool links, and assignment instruc
 |-----------|--------|---------|
 | Weekly Projects x 8 | 40% | 5% each |
 | Weekly Reflections x 8 | 16% | 2% each |
-| GitHub Portfolio | 14% | Graded at end of Week 8 |
+| Portfolio Website | 14% | Live `[username].github.io` with bio, final project link, and ≥2 weekly project links |
 | Final Project | 20% | >=2 skills, process documentation and reflection |
 | Final Presentation/Poster | 10% | Presented during Week 10 |
 | **Total** | **100%** | |
@@ -95,7 +95,7 @@ Each week you will write a **300-word reflection** using the provided template (
 
 **Weeks 5-8: Critical/Creative Reflection**
 1. What I Made — brief description of your project
-2. Process & Decisions — creative and technical choices you made (Week 7 includes a Training Data Log section)
+2. Process & Decisions — creative and technical choices you made (Weeks 7 and 8 include a data/experiment log section)
 3. Critical Prompt Response — each week has a specific thematic question
 4. Personal Connection — how this connects to your major or interests
 
@@ -103,13 +103,14 @@ See each week's `reflection-template.md` for the exact structure.
 
 ---
 
-### GitHub Portfolio
+### Portfolio Website
 
-At the end of Week 8, instructors review all 8 of your weekly GitHub Classroom repositories. A complete portfolio has:
-- All 8 weekly repos contain a project artifact and a `reflection.md` at the root
-- Each repo has a readable `README.md`
+You will build and maintain a personal portfolio website hosted on **GitHub Pages** at `https://[your-username].github.io`. This site is due by the start of Week 10 and must include:
+- Your name and a brief bio
+- A link to your **final project** repo
+- Links to at least **2 weekly projects** with a one-sentence description of each
 
-The portfolio grade (~1.75% per week) rewards consistent documentation habits. **An incomplete portfolio means missing credit even for work you completed.**
+Detailed setup instructions are in the [Final Project repository](https://github.com/UCR-Library-Honors-Ignition-Seminar/final-project). You do not need to know HTML — the instructions include an AI prompt that generates the page for you.
 
 ---
 
@@ -120,8 +121,9 @@ Combine **at least two skills or technologies** from anywhere in Weeks 1-8 into 
 **Deliverables:**
 1. A GitHub repository with project files, process documentation, and a `README.md`
 2. A **500-word final reflection** (`reflection.md`) in your repo
-3. A **personal portfolio website** hosted on GitHub Pages at `https://[your-username].github.io`
-4. A **presentation (5-7 minutes)** OR a **poster**, presented during Week 10
+3. A **presentation (5-7 minutes)** OR a **poster**, presented during Week 10
+
+Your **portfolio website** (`[username].github.io`) is a separate graded component — see above.
 
 See the [Final Project repository](https://github.com/UCR-Library-Honors-Ignition-Seminar/final-project) for the full rubric and presentation guide.
 
