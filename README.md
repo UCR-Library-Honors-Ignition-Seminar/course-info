@@ -11,10 +11,10 @@ Welcome to the UCR Library Honors Ignition Seminar! This is a 10-week hands-on c
 Every week follows the same four steps:
 
 1. **Accept the assignment link on Canvas** — each week, a GitHub Classroom invitation link is posted on Canvas. Click it to automatically create your personal GitHub repo for that week.
-2. **Open your repo and read `ASSIGNMENT.md`** — this has the full project prompt, options, and submission checklist.
+2. **Open your repo and read `ASSIGNMENT.md`** — this has the full project info, options, and submission checklist.
 3. **Do the work and add your files** — commit your project files and `reflection.md` directly to the root of your repo using the GitHub web editor (no terminal needed).
 4. **Check the auto-grader** — every time you commit, GitHub automatically checks that your `reflection.md` is present and long enough, and that a project file exists. Look for a green ✓ or yellow ⚠ next to your commit in the **Actions** tab.
-5. **Submit on Canvas** — paste your GitHub repo URL (or GitHub Pages URL for hosted projects) into that week's Canvas assignment.
+5. **Submit on Canvas** — paste your GitHub repo URL into that week's Canvas assignment.
 
 > **New to GitHub?** Start with the [GitHub & GitHub Classroom Guide](GITHUB-GUIDE.md) — written for zero prior experience, no coding background needed.
 
