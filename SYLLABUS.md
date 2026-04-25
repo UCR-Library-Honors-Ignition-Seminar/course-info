@@ -17,9 +17,9 @@ Email: jingh@ucr.edu | Office Hours: [TBD]
 
 ## Course Description
 
-This seminar introduces students to hands-on making across physical and digital domains. In the first half, students learn physical fabrication — vector design, laser cutting, electronics, 3D printing, and video production — using the tools of the Creat'R Lab (the Makerspace at UCR Orbach Science Library). In the second half, students shift to computational and digital media — interactive fiction, creative coding, machine learning, and critical AI practice. Throughout the course, students document their work and build a public portfolio on GitHub.
+This seminar introduces students to hands-on making across physical and digital domains. In the first half, students learn physical fabrication — vector design, laser cutting, electronics, 3D printing, and video production — using the tools of the UCR Creat'R Lab (the Makerspace at UCR Orbach Science Library). In the second half, students shift to computational and digital media — interactive fiction, creative coding, machine learning, and critical AI practice. Throughout the course, students document their work and build a public portfolio on GitHub.
 
-By the end of the seminar, students will have made eight distinct projects, developed a critical vocabulary for talking about creative tools and technology, and produced a final project combining at least two skills from across the course.
+By the end of the seminar, students will have made eight distinct projects, developed a critical vocabulary for talking about creative tools and technology, and produced a final project combining at least two physical and digital skills from across the course curriculum.
 
 ---
 
