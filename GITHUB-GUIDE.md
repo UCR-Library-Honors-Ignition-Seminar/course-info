@@ -35,6 +35,8 @@ Each week, your instructor will post an **assignment invitation link** on Canvas
 4. GitHub Classroom creates a personal repo for you automatically — no extra setup needed
 5. Click the link shown to open your new repo
 
+> **Having trouble accessing your repo?** Check your email — GitHub may have sent you an invitation that needs to be accepted first.
+
 ---
 
 ## Part 3: Adding Your Work (Web Browser — No Downloads Needed)
