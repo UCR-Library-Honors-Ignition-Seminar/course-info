@@ -32,7 +32,7 @@ Each week, your instructor will post an **assignment invitation link** on Canvas
 1. Click the link on Canvas
 2. Sign into GitHub if prompted
 3. Click **"Accept this assignment"**
-4. GitHub Classroom creates a personal repo for you automatically — no extra setup needed
+4. GitHub Classroom creates a personal private repo for you automatically — no extra setup needed
 5. Click the link shown to open your new repo
 
 > **Having trouble accessing your repo?** Check your email — GitHub may have sent you an invitation that needs to be accepted first.
