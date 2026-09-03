@@ -85,7 +85,7 @@ Each week you will complete a skill- or technology-based project described in de
 
 ### Weekly Reflections
 
-Each week you will write a **300-word reflection** using the provided template (`reflection-template.md`) in your GitHub Classroom repo.
+Each week you will write a **300-word reflection** using the provided template (`reflection-template.md`) in your Classroom 50 repo.
 
 **Weeks 1-4: Technical Journal**
 1. Technical Check-In — hardware/software success and comfort level 1-5
@@ -133,13 +133,13 @@ See the [Final Project repository](https://github.com/UCR-Library-Honors-Ignitio
 
 All assignments are submitted via **GitHub + Canvas**:
 
-1. Upload your work to the root of your weekly GitHub Classroom repository
+1. Upload your work to the root of your weekly Classroom 50 repository
 2. Submit your GitHub repo URL on Canvas
 3. Canvas is used for grading; GitHub is your portfolio
 
 For web-based projects (p5.js, Twine, Bitsy): save the project link in a `links.md` file in your GitHub folder AND submit the Canvas assignment with your GitHub repo URL.
 
-See the [GitHub & GitHub Classroom Guide](GITHUB-GUIDE.md) for step-by-step instructions.
+See the [GitHub & Classroom 50 Guide](GITHUB-GUIDE.md) for step-by-step instructions.
 
 ---
 
